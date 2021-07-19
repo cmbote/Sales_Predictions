@@ -54,6 +54,22 @@ Random Forest Regression Model
 
 Model reduced error by $1,333.60. This is 64% decrease and with the right mix or dependent variables, sales could potential increase significantly. 
 
+Here are how the resultd of which variables have the most potential impact on sales.
+
+Dependent:Product List Price           Importance:0.43
+Dependent:Grocery Store or Supermarket Importance:0.19
+Dependent:Visibility                   Importance:0.09
+Dependent:Year Opened                  Importance:0.09
+Dependent:Product ID                   Importance:0.07
+Dependent:Weight                       Importance:0.05
+Dependent:Product Category             Importance:0.03
+Dependent:Store ID                     Importance:0.02
+Dependent:Low Fat or Regular           Importance:0.01
+Dependent:Area of Store                Importance:0.01
+Dependent:Size of Store                Importance:0.01
+
+
+![image](https://user-images.githubusercontent.com/63200324/126216125-9fa2b35b-0b00-4a83-8ee1-6de431b5e162.png)
 
 
 
