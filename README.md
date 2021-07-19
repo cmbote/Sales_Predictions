@@ -23,7 +23,7 @@ Item Outlet Sales Distribution
 
 The distribution is heavily skewed to the right, indicating that most stores are in the $0-$2,000 sales range
 
-Low Fat or Regular Categoty
+Low Fat or Regular Category
 ![image](https://user-images.githubusercontent.com/63200324/126095955-053da498-02e4-4f2d-894e-9947d9b7b7b0.png)
 
 Nearly 2/3 of the products sold are low fat products.
